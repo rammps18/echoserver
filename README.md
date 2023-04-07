@@ -2,7 +2,7 @@ A Security Gate example for deploying container images using Github Actions and 
 ==================================================================================================================
 
 
-Deployment steps:
+Deployment steps: 
 ------------------
 
 
