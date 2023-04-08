@@ -1,4 +1,4 @@
-FROM python:3.9.6-buster
+FROM python:3.12.0a7-slim
 
 WORKDIR /app
 COPY src .
