@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 env:
-  ACR_REGISTRY_NAME: acrlzaacademo
+  ACR_REGISTRY_NAME: acralademoo
   IMAGE_NAME: echoserver
   SCAN_EXTRACTION_RETRY_COUNT: 2 # we set this to 45 so that we retry to get vulnerability assessment for about 15 mins (script will retry 45* 20seconds)
   # From link https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-containers-vulnerability-assessment-azure
